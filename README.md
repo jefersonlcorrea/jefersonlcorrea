@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🌱 I'm Jeferson and I'm currently looking for more knowledge about cloud computing, programming languages ​​and new tools
 
 <!--
 **jefersonlcorrea/jefersonlcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
